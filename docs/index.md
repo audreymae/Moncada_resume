@@ -89,7 +89,7 @@ __Association for Computing Machinery__, Vice President
 
 `2020 - present`
 
-__Data Science Society__, Family Data Analyst
+__Data Science Society__, Family Couer Data Analyst
 
 
 `2020 `
