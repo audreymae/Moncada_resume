@@ -19,7 +19,6 @@ title: Audrey Mae Moncada's Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 **GPA: 4.00**
-
 *BS Computer Science* *| Minor in Data Science*
 
 Relevant Coursework:
@@ -39,11 +38,11 @@ Extracurricular Activities:
 
 ## Skills
 
-**Technical Proficiencies**
+**Technical Proficiencies:**
 Tableau | Relational Database | PowerBI | Oracle | MongoDB  | Matlab | Microsoft Office
 
 
-**Dev**
+**Dev:**
 C++  | Python  |  R  |  MySQL  | NoSQL| JavaScript | JSON | HTML | CSS
 
 
