@@ -20,7 +20,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 **GPA: 4.00**
 
-*BS Computer Science* *Minor in Data Science*
+*BS Computer Science* *| Minor in Data Science*
 
 Relevant Coursework:
 * Big Data and Programming Analysis
